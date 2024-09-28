@@ -1,25 +1,6 @@
-package Easy;
+package easy.palindromeNumber;
 
-class ImprovedSolutionForIsPalindrome {
-    public boolean isPalindrome(int x) {
-        if ((x < 0) || (x != 0 && x % 10 == 0))
-            return false;
-
-        if (x <= Math.pow(2, 31) - 1) {
-            int original_num = x;
-            int reverse_num = 0;
-
-            while (x > 0) {
-                reverse_num = reverse_num * 10 + x % 10;
-                x /= 10;
-            }
-            return original_num == reverse_num;
-        }
-        return false;
-    }
-}
-
-class SolutionForIsPalindrome {
+public class Solution {
     public boolean isPalindrome(int x) {
         boolean flag = false;
 
@@ -55,13 +36,5 @@ class SolutionForIsPalindrome {
             }
         }
         return flag;
-    }
-}
-
-public class PalindromeNumber {
-
-    public static void main(String[] args) {
-        ImprovedSolutionForIsPalindrome s = new ImprovedSolutionForIsPalindrome();
-        s.isPalindrome(10);
     }
 }
