@@ -8,8 +8,20 @@ This repository is intended to document my journey of solving coding problems on
     LeetCode-Solutions/
     │
     ├── easy/
-    │   ├── TwoSum.java
-    │   └── PalindromeNumber.java
+    │   ├── addTwoNumbers
+    |   |   ├── ListedNode.java
+    |   |   ├── Solution.java
+    |   |   └── AddTwoNumbers.java
+    |   |   
+    │   ├── palindromeNumber
+    |   |   ├── ImprovedSolution.java
+    |   |   ├── Solution.java
+    |   |   └── PalindromeNumber.java
+    |   |   
+    │   └── twoSum
+    |       ├── ImprovedSolution.java
+    |       ├── Solution.java
+    |       └── TwoSum.java
     │
     ├── medium
     │
