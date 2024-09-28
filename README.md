@@ -7,12 +7,7 @@ This repository is intended to document my journey of solving coding problems on
     .
     LeetCode-Solutions/
     │
-    ├── easy/
-    │   ├── addTwoNumbers
-    |   |   ├── ListedNode.java
-    |   |   ├── Solution.java
-    |   |   └── AddTwoNumbers.java
-    |   |   
+    ├── easy/ 
     │   ├── palindromeNumber
     |   |   ├── ImprovedSolution.java
     |   |   ├── Solution.java
@@ -23,7 +18,11 @@ This repository is intended to document my journey of solving coding problems on
     |       ├── Solution.java
     |       └── TwoSum.java
     │
-    ├── medium
+    ├── medium/
+    │   ├── addTwoNumbers
+    |   |   ├── ListedNode.java
+    |   |   ├── Solution.java
+    |   |   └── AddTwoNumbers.java
     │
     ├── hard
     │
