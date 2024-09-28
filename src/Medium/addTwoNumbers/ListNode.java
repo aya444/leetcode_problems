@@ -1,4 +1,4 @@
-package easy.addTwoNumbers;
+package Medium.addTwoNumbers;
 
 public class ListNode {
     int val;
