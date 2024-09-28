@@ -1,3 +1,5 @@
+package Easy;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -47,7 +49,7 @@ class SolutionForTwoSum {
 public class TwoSum {
     public static void main(String[] args) throws Exception {
         ImprovedSolutionForTwoSum solution = new ImprovedSolutionForTwoSum();
-        int[] num = { 3,2,4 };
+        int[] num = {3, 2, 4};
         solution.twoSum(num, 6);
     }
 }

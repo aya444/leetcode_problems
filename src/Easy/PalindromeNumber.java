@@ -1,3 +1,5 @@
+package Easy;
+
 class ImprovedSolutionForIsPalindrome {
     public boolean isPalindrome(int x) {
         if ((x < 0) || (x != 0 && x % 10 == 0))
@@ -13,7 +15,6 @@ class ImprovedSolutionForIsPalindrome {
             }
             return original_num == reverse_num;
         }
-
         return false;
     }
 }
@@ -38,7 +39,7 @@ class SolutionForIsPalindrome {
             // Check if x is palindrome
             if (count != 0) {
                 int num_1 = x;
-                double num_2 = 0;
+                double num_2 = 0.0;
                 double divide_num = Math.pow(10, count - 1);
                 for (int i = 0; i < count / 2; i++) {
                     num_2 = num_1 % 10;
@@ -59,8 +60,8 @@ class SolutionForIsPalindrome {
 
 public class PalindromeNumber {
 
-    public static void main(String[] args) throws Exception {
-        SolutionForIsPalindrome s = new SolutionForIsPalindrome();
+    public static void main(String[] args) {
+        ImprovedSolutionForIsPalindrome s = new ImprovedSolutionForIsPalindrome();
         s.isPalindrome(10);
     }
 }
