@@ -8,23 +8,27 @@ This repository is intended to document my journey of solving coding problems on
     LeetCode-Solutions/
     │
     ├── easy/ 
-    │   ├── palindromeNumber
+    │   ├── palindromeNumber/
     |   |   ├── ImprovedSolution.java
     |   |   ├── Solution.java
     |   |   └── PalindromeNumber.java
     |   |   
-    │   └── twoSum
+    │   └── twoSum/
     |       ├── ImprovedSolution.java
     |       ├── Solution.java
     |       └── TwoSum.java
     │
     ├── medium/
-    │   ├── addTwoNumbers
+    │   ├── addTwoNumbers/
     |   |   ├── ListedNode.java
     |   |   ├── Solution.java
     |   |   └── AddTwoNumbers.java
+    |   |   
+    |   ├── lengthOfLongestSubstring/
+    |   |   ├── Solution.java
+    |   |   └── lengthOfLongestSubstring.java
     │
-    ├── hard
+    ├── hard/
     │
     └── README.md
 
