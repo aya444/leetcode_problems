@@ -1,4 +1,4 @@
-package Medium.lengthOfLongestSubstring;
+package medium.lengthOfLongestSubstring;
 
 public class LengthOfLongestSubstring {
     public static void main(String[] args){

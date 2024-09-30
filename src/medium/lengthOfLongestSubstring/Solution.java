@@ -1,4 +1,4 @@
-package Medium.lengthOfLongestSubstring;
+package medium.lengthOfLongestSubstring;
 
 import java.util.*;
 

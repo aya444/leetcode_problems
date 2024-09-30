@@ -29,6 +29,8 @@ This repository is intended to document my journey of solving coding problems on
     |   |   └── lengthOfLongestSubstring.java
     │
     ├── hard/
+    |   |   ├── Solution.java
+    |   |   └── MedianOfTwoSortedArrays.java
     │
     └── README.md
 
