@@ -1,4 +1,4 @@
-package medium.addTwoNumbers;
+package medium.add_two_numbers;
 
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

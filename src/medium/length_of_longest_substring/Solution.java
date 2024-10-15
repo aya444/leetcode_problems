@@ -1,4 +1,4 @@
-package medium.lengthOfLongestSubstring;
+package medium.length_of_longest_substring;
 
 import java.util.*;
 

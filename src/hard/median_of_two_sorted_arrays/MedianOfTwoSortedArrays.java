@@ -1,4 +1,4 @@
-package hard.medianOfTwoSortedArrays;
+package hard.median_of_two_sorted_arrays;
 
 public class MedianOfTwoSortedArrays {
     public static void main(String args[])

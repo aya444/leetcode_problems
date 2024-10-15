@@ -1,4 +1,4 @@
-package medium.addTwoNumbers;
+package medium.add_two_numbers;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {

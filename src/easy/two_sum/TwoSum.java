@@ -1,4 +1,4 @@
-package easy.twoSum;
+package easy.two_sum;
 
 public class TwoSum {
     public static void main(String[] args){

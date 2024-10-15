@@ -1,4 +1,4 @@
-package hard.medianOfTwoSortedArrays;
+package hard.median_of_two_sorted_arrays;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
