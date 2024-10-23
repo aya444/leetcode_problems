@@ -8,27 +8,36 @@ This repository is intended to document my journey of solving coding problems on
     LeetCode-Solutions/
     │
     ├── easy/ 
-    │   ├── palindromeNumber/
+    │   ├── palindrome_number/
     |   |   ├── ImprovedSolution.java
     |   |   ├── Solution.java
     |   |   └── PalindromeNumber.java
     |   |   
-    │   └── twoSum/
+    │   └── two_sum/
     |       ├── ImprovedSolution.java
     |       ├── Solution.java
     |       └── TwoSum.java
     │
     ├── medium/
-    │   ├── addTwoNumbers/
+    │   ├── add_two_numbers/
     |   |   ├── ListedNode.java
     |   |   ├── Solution.java
     |   |   └── AddTwoNumbers.java
     |   |   
-    |   ├── lengthOfLongestSubstring/
+    |   ├── length_of_longest_substring/
     |   |   ├── Solution.java
     |   |   └── lengthOfLongestSubstring.java
+    |   |  
+    |   ├── longest_palindromic_string/
+    |   |   ├── Solution.java
+    |   |   └── LongestPalindromicString.java
+    |   |  
+    |   ├── zigzag_conversion/
+    |   |   ├── Solution.java
+    |   |   └── ZigzagConversion.java
     │
     ├── hard/
+    │   ├── median_of_two_sorted_arrays/    
     |   |   ├── Solution.java
     |   |   └── MedianOfTwoSortedArrays.java
     │
