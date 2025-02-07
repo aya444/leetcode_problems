@@ -35,6 +35,11 @@ This repository is intended to document my journey of solving coding problems on
     |   ├── zigzag_conversion/
     |   |   ├── Solution.java
     |   |   └── ZigzagConversion.java
+    |   |
+    |   ├── reverse_integer/
+    |   |   ├── ImprovedSolution.java
+    |   |   ├── Solution.java
+    |   |   └── ReverseIteger.java
     │
     ├── hard/
     │   ├── median_of_two_sorted_arrays/    
